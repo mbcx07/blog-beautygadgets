@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beautygadgets.net/blog-beautygadgets/sitemap.xml
